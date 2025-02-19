@@ -164,7 +164,7 @@ label {
             <input type="password" name="password" placeholder="Password" required><br>
             <button type="submit">Register</button>
             <div class="register-link">
-                <p>Sudah punya akun? <a href="login.php">Login Here!</a></p>
+                <p>Sudah punya akun?? <a href="login.php">Login Here!</a></p>
             </div>
         </form>
     </div>
