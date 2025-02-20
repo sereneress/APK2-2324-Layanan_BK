@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <style>
         body {
             font-family: 'Helvetica Neue', Arial, sans-serif;
-            background-color: #e1e4e8;
+            background-image: url('https://www.smkmvp.sch.id/argon/img/background/SekolahSamping.png');
             margin: 0;
             padding: 0;
             display: flex;
