@@ -12,7 +12,7 @@ $PASSWORD = "";
 $KONEKSI = mysqli_connect($HOASTNAME, $USERNAME, $PASSWORD, $DATABASE);
 
 if (!$KONEKSI) {
-    die("koneksi errorr bang..!!!" . mysqli_connect_error($KONEKSI));
+    die("koneksi errorr coba lagii..!!!" . mysqli_connect_error($KONEKSI));
 }
 
 // ===========================

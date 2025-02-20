@@ -7,7 +7,7 @@ if (!isset($_SESSION['role']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-echo "<h1>Welcome, Admin!!</h1>";
+echo "<h1>Selamat Datang, Admin!!</h1>";
 echo "<a href='../inc/logout.php'>Logout</a>";
 
 ?>

@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 break;
             case "petugas":
                 echo "<script>
-                   alert('Login berhasil sebagai Petugas!');
+                   alert('Login berhasil sebagai Pengguna!');
                    window.location.href = '../petugas/index.php';
                </script>";
                 break;

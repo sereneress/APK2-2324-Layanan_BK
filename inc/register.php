@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
        </script>";
     } else {
         echo "<script>
-           alert('Registrasi gagal!');
+           alert('Registrasi gagal coba lagi!');
        </script>";
     }
 }
